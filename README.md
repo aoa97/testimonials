@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://aoa97.github.io/404-page-1/">
+    <a href="https://aoa97.github.io/testimonials/">
       Demo
     </a>
     <span> | </span>
